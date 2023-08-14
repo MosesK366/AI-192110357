@@ -1,0 +1,5 @@
+person(john, date(1990, 5, 15)).
+person(anna, date(1985, 9, 30)).
+person(michael, date(2000, 2, 10)).
+person(susan, date(1978, 12, 8)).
+person(surya, date(2003, 17, 5)).
